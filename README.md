@@ -19,3 +19,4 @@ Same size unit as VB6, Twip<br>
 与VB6一样的尺寸单位缇<br>
 <H1>Running Effect 运行效果</H1>
 <img src="https://github.com/pingyuan59/ValidBasic/blob/main/Images/ExcuteEffect.png"><br>
+<img src="https://github.com/pingyuan59/ValidBasic/blob/main/Images/ExcuteEffect2.png"><br>
