@@ -12,5 +12,7 @@ C/C++ > 所有选项 附加选项 /utf-8<br>
 <b>4、</b>The file must be in utf-8 format.<br>
 文件必须是utf-8格式<br>
 <br>
-<H1>易于书写的代码</H1>
+<H1>Easy to write code 易于书写的代码</H1>
 <img src="https://github.com/pingyuan59/ValidBasic/blob/main/Images/CodeSample.png"><br>
+<H1>Same unit-Twips 相同的单位-缇</H1>
+LstItems.Move(120, LstItems.Top, ScaleWidth - 240, LstItems.Height);
